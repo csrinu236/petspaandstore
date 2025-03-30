@@ -4059,7 +4059,7 @@ img {
 }
 .pricing-section .pricing-card {
   background: #fff;
-  border-radius: 40px 0px 0px 40px;
+  border-radius: 40px;
   box-shadow: 0px 2px 12px 2px rgba(4, 0, 52, 0.06);
   padding: 80px 50px;
   text-align: center;
@@ -4219,7 +4219,7 @@ img {
   color: #fff;
 }
 .pricing-section .col:last-child .pricing-card {
-  border-radius: 0px 40px 40px 0px;
+  border-radius: 40px
 }
 @media (max-width: 991px) {
   .pricing-section .col:last-child .pricing-card {
