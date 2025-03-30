@@ -371,8 +371,7 @@ img {
   font-size: 1.0666666667rem;
   border-radius: 40px;
 }
-.theme-btn:after,
-.view-cart-btn:after {
+.theme-btn:after{
   position: absolute;
   content: '';
   top: 0;
@@ -1380,7 +1379,7 @@ img {
   }
 }
 .wpo-site-header .container-fluid {
-  padding-right: 0;
+  /* padding-right: 0; */
 }
 
 @media (max-width: 991px) {
