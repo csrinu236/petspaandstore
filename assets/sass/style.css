@@ -1313,6 +1313,12 @@ img {
   width: 100%;
 }
 
+@media (max-width: 992px) {
+  .wpo-site-header .row {
+    width: unset;
+  }
+}
+
 @media (max-width: 991px) {
   .wpo-site-header .navigation {
     padding: 20px 0;
