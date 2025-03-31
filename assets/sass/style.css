@@ -3931,6 +3931,11 @@ img {
   text-align: center;
 }
 
+.funfact-section-wrapper {
+  background: #fffaf5;
+  padding-top: 40px;
+}
+
 /*3.4 funfact-section */
 .funfact-section {
   position: relative;
@@ -3967,7 +3972,9 @@ img {
 }
 @media (max-width: 767px) {
   .funfact-section .section-top-image {
-    display: none;
+    /* display: none; */
+    position: unset;
+    margin-bottom: 1rem;
   }
 }
 .funfact-section .col:nth-child(2) .item {
