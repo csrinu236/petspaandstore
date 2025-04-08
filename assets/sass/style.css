@@ -4060,6 +4060,10 @@ img {
 .pricing-section {
   background: #fffaf5;
 }
+
+.pricing-wrap {
+  margin-bottom: 1rem;
+}
 @media (max-width: 991px) {
   .pricing-section {
     padding-bottom: 60px;
