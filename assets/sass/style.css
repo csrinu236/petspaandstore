@@ -4256,6 +4256,9 @@ img {
   max-height: 762px;
   margin-left: -150px;
 }
+.testimonial-section .testimonial-image img {
+  margin-left: 150px;
+}
 @media (max-width: 991px) {
   .testimonial-section .testimonial-image {
     display: none;
