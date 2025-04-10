@@ -4180,7 +4180,7 @@ img {
 .pricing-section .pricing-card .features {
   list-style: none;
   padding: 0;
-  margin: 25px 0;
+  /* margin: 25px 0; */
   display: block;
 }
 .pricing-section .pricing-card .features li {
@@ -4208,10 +4208,9 @@ img {
     padding: 11px 35px;
   }
 }
-.pricing-section .col:nth-child(1) .pricing-card {
+/* .pricing-section .col:nth-child(1) .pricing-card {
   background: #ff5b2e;
   border-radius: 40px;
-  /* box-shadow: 0px 2px 12px 2px transparent; */
   position: relative;
   z-index: 1;
   box-shadow: var(--box-shadow);
@@ -4269,7 +4268,7 @@ img {
 }
 .pricing-section .col:nth-child(1) .pricing-card .theme-btn-s2:hover {
   color: #fff;
-}
+} */
 .pricing-section .col:last-child .pricing-card {
   border-radius: 40px;
 }
