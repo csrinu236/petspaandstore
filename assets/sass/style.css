@@ -147,7 +147,7 @@ img {
 }
 
 .section-padding {
-  padding: 120px 0;
+  padding: 90px 0;
 }
 @media (max-width: 991px) {
   .section-padding {
@@ -3482,12 +3482,12 @@ img {
 
 /*3.3 about-section */
 .about-section {
-  padding-top: 50px;
+  /* padding-top: 50px; */
   position: relative;
 }
 @media (max-width: 1399px) {
   .about-section {
-    padding-top: 0px;
+    /* padding-top: 50px; */
   }
 }
 .about-section .wraper {
@@ -3974,7 +3974,7 @@ img {
 
 .funfact-section-wrapper {
   background: #fffaf5;
-  padding-top: 40px;
+  padding-top: 90px;
 }
 
 /*3.4 funfact-section */
@@ -3986,7 +3986,7 @@ img {
 }
 @media (max-width: 1399px) {
   .funfact-section {
-    padding-top: 210px;
+    padding-top: 410px;
   }
 }
 @media (max-width: 1199px) {
