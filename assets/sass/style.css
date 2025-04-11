@@ -4194,12 +4194,12 @@ img {
   /* font-size: 22px; */
   font-weight: 500;
   /* line-height: 30px; */
-  font-size: 18px;
+  font-size: 17px;
   line-height: 30px;
 }
 @media (max-width: 1199px) {
   .pricing-section .pricing-card .features li {
-    font-size: 18px;
+    font-size: 17px;
     line-height: 30px;
   }
 }
