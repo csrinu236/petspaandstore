@@ -300,7 +300,7 @@ img {
 }
 
 .section-title {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   text-align: center;
 }
 @media (max-width: 767px) {
@@ -323,9 +323,9 @@ img {
   text-transform: capitalize;
   font-family: 'Fredoka One';
   color: #000;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 400;
-  line-height: 80px;
+  line-height: 65px;
 }
 @media (max-width: 1199px) {
   .section-title h2 {
@@ -4103,10 +4103,6 @@ img {
   text-align: left;
 }
 
-.save-note div {
-  margin: 8px 0;
-}
-
 .pricing-section .pricing-card {
   background: #fff;
   border-radius: 40px;
@@ -4132,7 +4128,8 @@ img {
 }
 .pricing-section .pricing-card h2 {
   color: #000;
-  font-size: 30px;
+  /* font-size: 30px; */
+  font-size: 25px;
   font-weight: 600;
   margin-bottom: 20px;
 }
@@ -4194,8 +4191,10 @@ img {
 .pricing-section .pricing-card .features li {
   margin: 12px 0;
   color: #666;
-  font-size: 22px;
+  /* font-size: 22px; */
   font-weight: 500;
+  /* line-height: 30px; */
+  font-size: 18px;
   line-height: 30px;
 }
 @media (max-width: 1199px) {
