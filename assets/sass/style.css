@@ -69,10 +69,11 @@ Version:        1.0.0
 /* 1.1 Theme Reset Style */
 html {
   font-size: 15px;
+  scroll-behavior: smooth;
 }
 
 :root {
-  scroll-behavior: unset;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -82,6 +83,7 @@ body {
   font-size: 15px;
   font-size: 1rem;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 @media (max-width: 767px) {
   body {
