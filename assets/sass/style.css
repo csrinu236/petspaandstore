@@ -4114,6 +4114,12 @@ img {
   --box-shadow-badge: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
 
+@media (max-width: 1399px) {
+  .pricing-section .pricing-wrap {
+    margin: 0;
+  }
+}
+
 .pricing-wrap {
   margin-bottom: 1rem;
 }
