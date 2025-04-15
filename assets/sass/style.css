@@ -3982,12 +3982,12 @@ img {
   text-align: center;
 }
 
+/*3.4 funfact-section */
+
 .funfact-section-wrapper {
   background: #fffaf5;
   padding-top: 90px;
 }
-
-/*3.4 funfact-section */
 .funfact-section {
   position: relative;
   padding-top: 410px;
@@ -4106,6 +4106,62 @@ img {
     font-size: 20px;
   }
 }
+
+/* ======================================= */
+
+.grooming-photo-row {
+  margin-top: 2rem;
+}
+
+.grooming-photo-box {
+  text-align: center;
+  background: #fff;
+  border-radius: 20px;
+  padding: 20px 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.grooming-photo-box h4 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  font-weight: 600;
+  font-family: 'Fredoka One', cursive;
+}
+
+.photo-pair {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.photo-item {
+  flex: 1 1 48%;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 2px solid #eee;
+}
+
+.photo-item img {
+  width: 100%;
+  display: block;
+  height: auto;
+}
+
+.photo-item .label {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 14px;
+  padding: 3px 10px;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+/* ======================================= */
 
 /*3.5 pricing-section */
 .pricing-section {
