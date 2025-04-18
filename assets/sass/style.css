@@ -4107,6 +4107,16 @@ img {
   }
 }
 
+.funfact-container {
+  margin: 0;
+}
+
+@media (min-width: 1199px) {
+  .funfact-container {
+    margin: 0 2rem;
+  }
+}
+
 /* ======================================= */
 
 .grooming-photo-row {
