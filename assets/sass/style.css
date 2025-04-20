@@ -3985,15 +3985,15 @@ img {
 /*3.4 funfact-section */
 
 .funfact-section-wrapper {
-  /* background: #fffaf5; */
-  background: white !important;
+  background: #fffaf5;
+  /* background: white !important; */
   padding-top: 60px;
 }
 .funfact-section {
   position: relative;
   padding-top: 410px;
-  /* background: #fffaf5; */
-  background: white;
+  background: #fffaf5;
+  /* background: white; */
   z-index: 1;
 }
 @media (max-width: 1399px) {
