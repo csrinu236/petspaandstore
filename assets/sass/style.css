@@ -151,12 +151,12 @@ img {
 }
 @media (max-width: 991px) {
   .section-padding {
-    padding: 90px 0;
+    padding: 60px 0;
   }
 }
 @media (max-width: 767px) {
   .section-padding {
-    padding: 80px 0;
+    padding: 60px 0;
   }
 }
 
@@ -3985,13 +3985,15 @@ img {
 /*3.4 funfact-section */
 
 .funfact-section-wrapper {
-  background: #fffaf5;
-  padding-top: 90px;
+  /* background: #fffaf5; */
+  background: white !important;
+  padding-top: 60px;
 }
 .funfact-section {
   position: relative;
   padding-top: 410px;
-  background: #fffaf5;
+  /* background: #fffaf5; */
+  background: white;
   z-index: 1;
 }
 @media (max-width: 1399px) {
@@ -4412,6 +4414,7 @@ img {
 /*3.6 testimonial-section */
 .testimonial-section {
   position: relative;
+  background: #fffaf5;
   z-index: 1;
 }
 .testimonial-section .testimonial-image {
