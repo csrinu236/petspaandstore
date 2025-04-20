@@ -4414,7 +4414,8 @@ img {
 /*3.6 testimonial-section */
 .testimonial-section {
   position: relative;
-  background: #fffaf5;
+  /* background: #fffaf5; */
+  background: #fff;
   z-index: 1;
 }
 .testimonial-section .testimonial-image {
